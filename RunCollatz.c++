@@ -25,7 +25,6 @@ int main () {
 % g++ -pedantic -std=c++11 -Wall Collatz.c++ RunCollatz.c++ -o RunCollatz
 
 
-
 % cat RunCollatz.in
 1 10
 100 200
